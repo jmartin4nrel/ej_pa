@@ -1,0 +1,63 @@
+,,Top Down Parameters,,site,,iron_ore,iron_win,overwrite HOPP elec?,,,overwrite GreenHEART H2?,,
+,id,inflation,slag disposal cost,latitude,longitude,ore_type,option,Yes/no,Elec cost,Elec CI,Yes/no,H2 cost,H2 CI
+,,%,$/ton slag,deg,deg,-,-,boolean,$/kWh,kg CO2/kWh,boolean,$/kg,kg CO2/kg
+0,0,2,35,46,-94,Hibbing Taconite,blast_furnace,TRUE,0.04,0.001,TRUE,1,0.5
+1,1,2.5,36,46,-94,Hibbing Taconite,ng_dri,FALSE,0.05,0.005,FALSE,2,0.4
+2,2,3,37,46,-94,Hibbing Taconite,h2_dri,TRUE,0.06,0.01,TRUE,3,0.3
+3,3,3.5,38,46,-94,Hibbing Taconite,moe,FALSE,0.07,0.05,FALSE,4,0.2
+4,4,4,39,46,-94,Hibbing Taconite,ahe,TRUE,0.08,0.1,TRUE,5,0.1
+5,5,4.5,40,46,-94,Hibbing Taconite,mse,FALSE,0.09,0.5,FALSE,6,0
+6,6,2,35,46,-94,More Expensive Ore,blast_furnace,TRUE,0.04,0.001,TRUE,1,0.5
+7,7,2.5,36,46,-94,More Expensive Ore,ng_dri,FALSE,0.05,0.005,FALSE,2,0.4
+8,8,3,37,46,-94,More Expensive Ore,h2_dri,TRUE,0.06,0.01,TRUE,3,0.3
+9,9,3.5,38,46,-94,More Expensive Ore,moe,FALSE,0.07,0.05,FALSE,4,0.2
+10,10,4,39,46,-94,More Expensive Ore,ahe,TRUE,0.08,0.1,TRUE,5,0.1
+11,11,4.5,40,46,-94,More Expensive Ore,mse,FALSE,0.09,0.5,FALSE,6,0
+12,12,2,35,45,-94,Hibbing Taconite,blast_furnace,TRUE,0.04,0.001,TRUE,1,0.5
+13,13,2.5,36,45,-94,Hibbing Taconite,ng_dri,FALSE,0.05,0.005,FALSE,2,0.4
+14,14,3,37,45,-94,Hibbing Taconite,h2_dri,TRUE,0.06,0.01,TRUE,3,0.3
+15,15,3.5,38,45,-94,Hibbing Taconite,moe,FALSE,0.07,0.05,FALSE,4,0.2
+16,16,4,39,45,-94,Hibbing Taconite,ahe,TRUE,0.08,0.1,TRUE,5,0.1
+17,17,4.5,40,45,-94,Hibbing Taconite,mse,FALSE,0.09,0.5,FALSE,6,0
+18,18,2,35,45,-94,More Expensive Ore,blast_furnace,TRUE,0.04,0.001,TRUE,1,0.5
+19,19,2.5,36,45,-94,More Expensive Ore,ng_dri,FALSE,0.05,0.005,FALSE,2,0.4
+20,20,3,37,45,-94,More Expensive Ore,h2_dri,TRUE,0.06,0.01,TRUE,3,0.3
+21,21,3.5,38,45,-94,More Expensive Ore,moe,FALSE,0.07,0.05,FALSE,4,0.2
+22,22,4,39,45,-94,More Expensive Ore,ahe,TRUE,0.08,0.1,TRUE,5,0.1
+23,23,4.5,40,45,-94,More Expensive Ore,mse,FALSE,0.09,0.5,FALSE,6,0
+24,24,2,35,47,-94,Hibbing Taconite,blast_furnace,TRUE,0.04,0.001,TRUE,1,0.5
+25,25,2.5,36,47,-94,Hibbing Taconite,ng_dri,FALSE,0.05,0.005,FALSE,2,0.4
+26,26,3,37,47,-94,Hibbing Taconite,h2_dri,TRUE,0.06,0.01,TRUE,3,0.3
+27,27,3.5,38,47,-94,Hibbing Taconite,moe,FALSE,0.07,0.05,FALSE,4,0.2
+28,28,4,39,47,-94,Hibbing Taconite,ahe,TRUE,0.08,0.1,TRUE,5,0.1
+29,29,4.5,40,47,-94,Hibbing Taconite,mse,FALSE,0.09,0.5,FALSE,6,0
+30,30,2,35,47,-94,More Expensive Ore,blast_furnace,TRUE,0.04,0.001,TRUE,1,0.5
+31,31,2.5,36,47,-94,More Expensive Ore,ng_dri,FALSE,0.05,0.005,FALSE,2,0.4
+32,32,3,37,47,-94,More Expensive Ore,h2_dri,TRUE,0.06,0.01,TRUE,3,0.3
+33,33,3.5,38,47,-94,More Expensive Ore,moe,FALSE,0.07,0.05,FALSE,4,0.2
+34,34,4,39,47,-94,More Expensive Ore,ahe,TRUE,0.08,0.1,TRUE,5,0.1
+35,35,4.5,40,47,-94,More Expensive Ore,mse,FALSE,0.09,0.5,FALSE,6,0
+36,36,,,46,-95,Hibbing Taconite,blast_furnace,,,,,,
+37,37,,,46,-95,Hibbing Taconite,ng_dri,,,,,,
+38,38,,,46,-95,Hibbing Taconite,h2_dri,,,,,,
+39,39,,,46,-95,Hibbing Taconite,moe,,,,,,
+40,40,,,46,-95,Hibbing Taconite,ahe,,,,,,
+41,41,,,46,-95,Hibbing Taconite,mse,,,,,,
+42,42,,,46,-95,More Expensive Ore,blast_furnace,,,,,,
+43,43,,,46,-95,More Expensive Ore,ng_dri,,,,,,
+44,44,,,46,-95,More Expensive Ore,h2_dri,,,,,,
+45,45,,,46,-95,More Expensive Ore,moe,,,,,,
+46,46,,,46,-95,More Expensive Ore,ahe,,,,,,
+47,47,,,46,-95,More Expensive Ore,mse,,,,,,
+48,48,,,46,-93,Hibbing Taconite,blast_furnace,,,,,,
+49,49,,,46,-93,Hibbing Taconite,ng_dri,,,,,,
+50,50,,,46,-93,Hibbing Taconite,h2_dri,,,,,,
+51,51,,,46,-93,Hibbing Taconite,moe,,,,,,
+52,52,,,46,-93,Hibbing Taconite,ahe,,,,,,
+53,53,,,46,-93,Hibbing Taconite,mse,,,,,,
+54,54,,,46,-93,More Expensive Ore,blast_furnace,,,,,,
+55,55,,,46,-93,More Expensive Ore,ng_dri,,,,,,
+56,56,,,46,-93,More Expensive Ore,h2_dri,,,,,,
+57,57,,,46,-93,More Expensive Ore,moe,,,,,,
+58,58,,,46,-93,More Expensive Ore,ahe,,,,,,
+59,59,,,46,-93,More Expensive Ore,mse,,,,,,
