@@ -169,3 +169,7 @@ cython_debug/
 *output/
 *speed_dir_data.csv
 data_library/weather/*/*.csv
+
+# Huge shapefiles
+webtool/usa/usa.shp
+webtool/usa/usa.dbf

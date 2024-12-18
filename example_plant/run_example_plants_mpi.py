@@ -34,7 +34,7 @@ sitelist_all = INPUT_DIR/'multiprocess/sitelist.csv'
 sitelist_locs = INPUT_DIR/'multiprocess/sitelist_just_loc.csv'
 
 # Set to False to use to old, previously-calculated location data
-rerun_locs = True
+rerun_locs = False
 
 # Parallel job is "do_something" - run_example_plant replaces run_baseline_site
 def do_something(inputs,site_id):
